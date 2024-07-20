@@ -1,0 +1,330 @@
+body {
+    display: block;
+    margin: 8px;
+}
+.container {
+    border: 2px solid rgb(71, 71, 71);
+    background-color: rgb(155, 151, 151);
+    height: 430px;
+    width: 370px;
+    margin: 150px auto 70px;
+    font-size: xx-large;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+button {
+    background-color: aquamarine;
+    font-size: x-large;
+    text-align: center;
+    margin: 0px auto;
+}
+user agent stylesheet
+button {
+    appearance: auto;
+    text-rendering: auto;
+    color: buttontext;
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: center;
+    align-items: flex-start;
+    cursor: default;
+    box-sizing: border-box;
+    background-color: buttonface;
+    margin: 0em;
+    padding-block: 1px;
+    padding-inline: 6px;
+    border-width: 2px;
+    border-style: outset;
+    border-color: buttonborder;
+    border-image: initial;
+}
+.div1 {
+    border: 2px solid rgb(24, 20, 228);
+    background-color: rgb(71, 68, 248);
+    margin: 6px 5px;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.container {
+    border: 2px solid rgb(71, 71, 71);
+    background-color: rgb(155, 151, 151);
+    height: 430px;
+    width: 370px;
+    margin: 150px auto 70px;
+    font-size: xx-large;
+}
+.div2 {
+    border: 2px solid rgb(10, 219, 27);
+    background-color: rgb(88, 245, 101);
+    margin: 6px 5px;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.container {
+    border: 2px solid rgb(71, 71, 71);
+    background-color: rgb(155, 151, 151);
+    height: 430px;
+    width: 370px;
+    margin: 150px auto 70px;
+    font-size: xx-large;
+}
+.div {
+    display: flex;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.container {
+    border: 2px solid rgb(71, 71, 71);
+    background-color: rgb(155, 151, 151);
+    height: 430px;
+    width: 370px;
+    margin: 150px auto 70px;
+    font-size: xx-large;
+}
+.div3 {
+    border: 2px solid rgb(14, 241, 33);
+    background-color: rgb(88, 245, 101);
+    display: inline-block;
+    margin: 6px 5px;
+    width: 180px;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.container {
+    border: 2px solid rgb(71, 71, 71);
+    background-color: rgb(155, 151, 151);
+    height: 430px;
+    width: 370px;
+    margin: 150px auto 70px;
+    font-size: xx-large;
+}
+.div3 .div1 .div2 {
+    border: 2px solid red;
+    background-color: rgb(223, 99, 99);
+}
+.div2 {
+    border: 2px solid rgb(10, 219, 27);
+    background-color: rgb(88, 245, 101);
+    margin: 6px 5px;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.container {
+    border: 2px solid rgb(71, 71, 71);
+    background-color: rgb(155, 151, 151);
+    height: 430px;
+    width: 370px;
+    margin: 150px auto 70px;
+    font-size: xx-large;
+}
+div3 {
+    border: 2px solid rgb(14, 241, 33);
+    background-color: rgb(88, 245, 101);
+    display: inline-block;
+    margin: 6px 5px;
+    width: 180px;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.container {
+    border: 2px solid rgb(71, 71, 71);
+    background-color: rgb(155, 151, 151);
+    height: 430px;
+    width: 370px;
+    margin: 150px auto 70px;
+    font-size: xx-large;
+}
+.div3 .div1 {
+    background-color: rgb(114, 79, 179);
+    border: 2px solid rgb(114, 79, 179);
+}
+.div1 {
+    border: 2px solid rgb(24, 20, 228);
+    background-color: rgb(71, 68, 248);
+    margin: 6px 5px;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.container {
+    border: 2px solid rgb(71, 71, 71);
+    background-color: rgb(155, 151, 151);
+    height: 430px;
+    width: 370px;
+    margin: 150px auto 70px;
+    font-size: xx-large;
+}
+.div3 {
+    border: 2px solid rgb(14, 241, 33);
+    background-color: rgb(88, 245, 101);
+    display: inline-block;
+    margin: 6px 5px;
+    width: 180px;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.container {
+    border: 2px solid rgb(71, 71, 71);
+    background-color: rgb(155, 151, 151);
+    height: 430px;
+    width: 370px;
+    margin: 150px auto 70px;
+    font-size: xx-large;
+}
+.div4 {
+    border: 2px solid yellow;
+    background-color: rgb(241, 255, 119);
+    height: 100px;
+    margin: 6px 5px;
+    width: 70px;
+    padding: 60px 40px;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.container {
+    border: 2px solid rgb(71, 71, 71);
+    background-color: rgb(155, 151, 151);
+    height: 430px;
+    width: 370px;
+    margin: 150px auto 70px;
+    font-size: xx-large;
+}
+.div {
+    display: flex;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.container {
+    border: 2px solid rgb(71, 71, 71);
+    background-color: rgb(155, 151, 151);
+    height: 430px;
+    width: 370px;
+    margin: 150px auto 70px;
+    font-size: xx-large;
+}
+.div {
+    display: flex;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.container {
+    border: 2px solid rgb(71, 71, 71);
+    background-color: rgb(155, 151, 151);
+    height: 430px;
+    width: 370px;
+    margin: 150px auto 70px;
+    font-size: xx-large;
+}
+.container {
+    border: 2px solid rgb(71, 71, 71);
+    background-color: rgb(155, 151, 151);
+    height: 430px;
+    width: 370px;
+    margin: 150px auto 70px;
+    font-size: xx-large;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+button {
+    background-color: aquamarine;
+    font-size: x-large;
+    text-align: center;
+    margin: 0px auto;
+}
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+.div5 {
+    border: 2px solid rgb(24, 20, 228);
+    border-top-width: 2px;
+    border-right-width: 2px;
+    border-bottom-width: 2px;
+    border-left-width: 2px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-color: rgb(24, 20, 228);
+    border-right-color: rgb(24, 20, 228);
+    border-bottom-color: rgb(24, 20, 228);
+    border-left-color: rgb(24, 20, 228);
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    background-color: rgb(71, 68, 248);
+    margin: 6px 5px;
+    margin-top: 6px;
+    margin-right: 5px;
+    margin-bottom: 6px;
+    margin-left: 5px;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.container {
+    border: 2px solid rgb(71, 71, 71);
+    background-color: rgb(155, 151, 151);
+    height: 430px;
+    width: 370px;
+    margin: 150px auto 70px;
+    font-size: xx-large;
+}
